@@ -16,6 +16,7 @@ span{
     text-align: center;
     width: 100%;
     font-family: 'Roboto Slab', serif;
+    text-shadow: 2px;
 }
 .img{
     margin-top: 10px;
@@ -48,4 +49,9 @@ span{
 h4{
     color: white;
     font-weight: bold;
+}
+.bottom1{
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
 }
